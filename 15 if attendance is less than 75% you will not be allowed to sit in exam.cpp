@@ -4,7 +4,6 @@ int main()
 {
     int days,p,a;
     string ans;
-    bool flag=0;
     float attendance;
     cout<<"Enter the total number of working days: ";
     cin>>days;
